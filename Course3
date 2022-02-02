@@ -5,6 +5,10 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
+Pawan Dubey
+Dynamic Programming
+Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
 Vamsi krishna
 Divide and Conquer Algorithms
 Divide and conquer is an algorithm paradigm where a problem breaks into two or more smaller sub-problems or related type until every sub-problem is pretty good enough to solve. After solving each sub-problem, all the solutions to the sub-problems are combined to give a solution to the original problem.
